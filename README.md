@@ -1,5 +1,5 @@
 
-INSIGHTS FROM THW WORLD HAPPINESS REPORT 2015
+INSIGHTS FROM THE WORLD HAPPINESS REPORT 2015
 
 The happiest country in the world is Switzerland
 
@@ -29,6 +29,8 @@ Least  Happiest
 •	Syria
 •	Burundi
 •	Togo
+
+The poorest countries are in africa and the middle east while the richest countries are in north and western europe
 
 
 The maximum and minimum value of happiness is 7.5870 and 2.8390
